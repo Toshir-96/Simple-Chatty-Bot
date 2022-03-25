@@ -1,2 +1,2 @@
 # JetBrains
-projects which i have learnt from jetbrains
+projects which i have learn from jetbrains
